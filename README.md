@@ -7,9 +7,10 @@ Pirmais Unity 2D projekts, apgūstam UI elementu lietošanu
 - [x] Checkbox, Dropdown un slider elementu lietojums
 - [x] Pirmā C# skripta izveide
 - [x] Audio source ieviešana
-- [ ] Scrollview elementa lietojums
-- [ ] Otrās ainas (scene) ieviešana
+- [x] Scrollview elementa lietojums
+- [x] Otrās ainas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D (fizikas spēku iedarbība)
-- [ ] Virtuļu spavneris
+- [x] Virtuļu spavneris
+- [x] Želejas efekta skripts
 
 ![MR. Bean ar Teddy](https://www.pngall.com/wp-content/uploads/5/Cartoon-Mr.-Bean-PNG-Free-Download.png)
