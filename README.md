@@ -9,7 +9,7 @@ Pirmais Unity 2D projekts, apgūstam UI elementu lietošanu
 - [x] Audio source ieviešana
 - [x] Scrollview elementa lietojums
 - [x] Otrās ainas (scene) ieviešana
-- [ ] Collider 2D un Rigidbody 2D (fizikas spēku iedarbība)
+- [x] Collider 2D un Rigidbody 2D (fizikas spēku iedarbība)
 - [x] Virtuļu spavneris
 - [x] Želejas efekta skripts
 
